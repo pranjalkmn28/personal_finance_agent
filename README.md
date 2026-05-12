@@ -1,4 +1,4 @@
-# Personal Finance Agent — Week 2 Project
+# Personal Finance Agent
 
 A ReAct agent that answers questions about your finances using real tool calls.
 
