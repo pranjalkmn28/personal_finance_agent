@@ -1,0 +1,7 @@
+langchain
+langchain-groq
+langchain-core
+django
+pandas
+pydantic
+python-dotenv

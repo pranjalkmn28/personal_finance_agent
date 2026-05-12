@@ -1,0 +1,59 @@
+date,description,amount,type
+2024-01-02,Swiggy Food Order,-450,debit
+2024-01-03,Salary Credit,85000,credit
+2024-01-04,Amazon Purchase,-2300,debit
+2024-01-05,Uber Ride,-180,debit
+2024-01-06,Netflix Subscription,-649,debit
+2024-01-07,Zomato Food Order,-320,debit
+2024-01-08,HDFC Credit Card Bill,-12000,debit
+2024-01-09,Grocery Store,-1800,debit
+2024-01-10,Uber Ride,-220,debit
+2024-01-11,Electricity Bill,-1500,debit
+2024-01-12,Amazon Purchase,-5600,debit
+2024-01-13,Swiggy Food Order,-380,debit
+2024-01-14,Freelance Payment,15000,credit
+2024-01-15,Petrol Pump,-2400,debit
+2024-01-16,Medical Pharmacy,-890,debit
+2024-01-17,Gym Membership,-2000,debit
+2024-01-18,Zomato Food Order,-560,debit
+2024-01-19,Movie Tickets,-700,debit
+2024-01-20,Internet Bill,-999,debit
+2024-01-21,Uber Ride,-350,debit
+2024-01-22,Amazon Purchase,-3200,debit
+2024-01-23,Swiggy Food Order,-290,debit
+2024-01-24,ATM Withdrawal,-5000,debit
+2024-01-25,Mutual Fund SIP,-10000,debit
+2024-01-26,Restaurant Dinner,-1800,debit
+2024-01-27,Uber Ride,-140,debit
+2024-01-28,Mobile Recharge,-399,debit
+2024-01-29,Amazon Purchase,-1100,debit
+2024-01-30,Swiggy Food Order,-430,debit
+2024-01-31,Rent Payment,-22000,debit
+2024-02-01,Salary Credit,85000,credit
+2024-02-02,Uber Ride,-200,debit
+2024-02-03,Grocery Store,-2100,debit
+2024-02-04,Swiggy Food Order,-510,debit
+2024-02-05,Amazon Purchase,-4500,debit
+2024-02-06,Electricity Bill,-1650,debit
+2024-02-07,Netflix Subscription,-649,debit
+2024-02-08,Zomato Food Order,-670,debit
+2024-02-09,Petrol Pump,-2600,debit
+2024-02-10,Medical Doctor Visit,-800,debit
+2024-02-11,Gym Membership,-2000,debit
+2024-02-12,Movie Tickets,-1400,debit
+2024-02-13,Swiggy Food Order,-380,debit
+2024-02-14,Valentine Dinner,-3500,debit
+2024-02-15,Freelance Payment,20000,credit
+2024-02-16,Internet Bill,-999,debit
+2024-02-17,Uber Ride,-260,debit
+2024-02-18,Amazon Purchase,-8900,debit
+2024-02-19,ATM Withdrawal,-3000,debit
+2024-02-20,Mutual Fund SIP,-10000,debit
+2024-02-21,Grocery Store,-1950,debit
+2024-02-22,Swiggy Food Order,-420,debit
+2024-02-23,Mobile Recharge,-399,debit
+2024-02-24,Restaurant Lunch,-950,debit
+2024-02-25,Uber Ride,-180,debit
+2024-02-26,Amazon Purchase,-2700,debit
+2024-02-27,HDFC Credit Card Bill,-15000,debit
+2024-02-28,Rent Payment,-22000,debit
